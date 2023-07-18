@@ -5,7 +5,7 @@
 - [o]03-entity-fetching.problem
 - [o]04-reusable-valid-brand.problem
 - [Xo]05-currency-conversion.problem
-- [XX]06-index-signatures.problem
+- [XXo]06-index-signatures.problem
 
 ## 02-globals
 - [o]07-add-function-to-global-scope.problem
@@ -18,7 +18,7 @@
 - [Xo]12-type-predicates-with-filter.problem
 - [Xo]13-assertion-functions.problem
 - [o]14-typescripts-worst-error.problem
-- [XX]15-type-predicates-with-generics.problem
+- [XXo]15-type-predicates-with-generics.problem
 - [o]16-brands-and-type-predicates.problem
 - [o]17-brands-and-assertion-functions.problem
 
@@ -35,7 +35,7 @@
 - [o]24-lodash-groupby.problem
 - [Xo]25-usage-with-express.problem
 - [Xo]26-usage-with-zod.problem
-- [XX]26.5-override-external-lib-types.problem
+- [XXo]26.5-override-external-lib-types.problem
 
 ## 06-identity-functions
 - [Xo]27-const-annotations.problem
