@@ -16,7 +16,7 @@
 - [oo] 11-data-fetcher.problem
 
 ## 03 Art of type args
-- [XoX] 12-generics-at-different-levels.problem
+- [XoXo] 12-generics-at-different-levels.problem
 - [oo] 13-typed-object-keys.problem
 - [Xoo] 14-safe-function.problem
 - [Xoo] 14.7-string-number-union.problem
@@ -29,8 +29,8 @@
 - [oo] 19-generic-interfaces-with-functions.problem
 - [oo] 20-spotting-useless-generics.problem
 - [oo] 20.5-spotting-missing-generics.problem
-- [XoX] 20.6-reusable-context.problem
-- [XoX] 20.7-working-around-partial-inference.problem
+- [XoXo] 20.6-reusable-context.problem
+- [XoXo] 20.7-working-around-partial-inference.problem
 
 ## 05 Func overloads
 - [oo] 21-what-is-a-function-overload.problem
@@ -40,7 +40,7 @@
 - [oo] 25-generics-in-function-overloads.problem
 - [Xoo] 26-document.queryselector-example.problem
 - [oo] 27-use-data-hook.problem
-- [XXoX] 28-could-be-instantiated-with-subtype-of.problem
+- [XXoXo] 28-could-be-instantiated-with-subtype-of.problem
 
 
 ## 06 Challenge
@@ -50,4 +50,4 @@
 - [oo] 30-form-validator.problem
 - [oo] 32-data-fetcher-with-warning.problem
 - [oo] 33-compose.problem
-- [XoX] 34-internationalization.problem
+- [XoXo] 34-internationalization.problem
