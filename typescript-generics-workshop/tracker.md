@@ -1,27 +1,27 @@
 # Generic workshop
 
 ## 01 Introduction
-- [oo] 01-return-what-i-pass-in.problem
-- [oo] 02-generic-constraints.problem
-- [oo] 03-multiple-generics.problem
-- [XXXoo] 04-multiple-generics-per-object.problem
-- [oo] 05-generics-in-classes.problem
-- [oo] 06-generic-mapper.problem
+- [oo.x] 01-return-what-i-pass-in.problem
+- [oo.o] 02-generic-constraints.problem
+- [oo.o] 03-multiple-generics.problem
+- [xxxoo.-] 04-multiple-generics-per-object.problem
+- [oo.o] 05-generics-in-classes.problem
+- [oo.x] 06-generic-mapper.problem
 
 ## 02 Passing type args
-- [oo] 07-create-new-set.problem
-- [oo] 08-default-generics.problem
-- [oo] 09-generics-in-type-arguments-in-arguments.problem
-- [oXoo] 10-reduce.problem
-- [oo] 11-data-fetcher.problem
+- [oo.o] 07-create-new-set.problem
+- [oo.o] 08-default-generics.problem
+- [oo.-] 09-generics-in-type-arguments-in-arguments.problem
+- [oxoo.o] 10-reduce.problem
+- [oo.o] 11-data-fetcher.problem
 
 ## 03 Art of type args
-- [XoXo] 12-generics-at-different-levels.problem
-- [oo] 13-typed-object-keys.problem
-- [Xoo] 14-safe-function.problem
-- [Xoo] 14.7-string-number-union.problem
-- [oo] 15-array-or-array-member-in-generics.problem
-- [oo] 16-class-names-creator.problem
+- [xoxo.-] 12-generics-at-different-levels.problem
+- [oo.-] 13-typed-object-keys.problem
+- [xoo.-] 14-safe-function.problem
+- [xoo.x] 14.7-string-number-union.problem
+- [oo.o] 15-array-or-array-member-in-generics.problem
+- [oo.o] 16-class-names-creator.problem
 ## 04 Generic advanced
 - [Xoo] 17-you-say-goodbye-i-say-hello.problem
 - [oXoo] 17.5-inference-inside-generic-functions.problem
