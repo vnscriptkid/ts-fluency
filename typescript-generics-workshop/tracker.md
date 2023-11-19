@@ -23,31 +23,31 @@
 - [oo.o] 15-array-or-array-member-in-generics.problem
 - [oo.o] 16-class-names-creator.problem
 ## 04 Generic advanced
-- [Xoo] 17-you-say-goodbye-i-say-hello.problem
-- [oXoo] 17.5-inference-inside-generic-functions.problem
-- [oo] 18-generic-currying.problem
-- [oo] 19-generic-interfaces-with-functions.problem
-- [oo] 20-spotting-useless-generics.problem
-- [oo] 20.5-spotting-missing-generics.problem
-- [XoXo] 20.6-reusable-context.problem
-- [XoXo] 20.7-working-around-partial-inference.problem
+- [xoo.x] 17-you-say-goodbye-i-say-hello.problem
+- [oxoo.x] 17.5-inference-inside-generic-functions.problem
+- [oo.o] 18-generic-currying.problem
+- [oo.o] 19-generic-interfaces-with-functions.problem
+- [oo.x] 20-spotting-useless-generics.problem
+- [oo.o] 20.5-spotting-missing-generics.problem
+- [xoxo.x] 20.6-reusable-context.problem
+- [xoxo.x] 20.7-working-around-partial-inference.problem
 
 ## 05 Func overloads
-- [oo] 21-what-is-a-function-overload.problem
-- [oo] 22-function-overloads-vs-conditional-types.problem
-- [oo] 23-function-overload-implementation.problem
-- [oo] 24-function-overloads-vs-union-types.problem
-- [oo] 25-generics-in-function-overloads.problem
-- [Xoo] 26-document.queryselector-example.problem
-- [oo] 27-use-data-hook.problem
-- [XXoXo] 28-could-be-instantiated-with-subtype-of.problem
+- [oo.x] 21-what-is-a-function-overload.problem
+- [oo.o] 22-function-overloads-vs-conditional-types.problem
+- [oo.o] 23-function-overload-implementation.problem
+- [oo.x] 24-function-overloads-vs-union-types.problem
+- [oo.o] 25-generics-in-function-overloads.problem
+- [xoo.o] 26-document.queryselector-example.problem
+- [oo.o] 27-use-data-hook.problem
+- [xxoxo.-] 28-could-be-instantiated-with-subtype-of.problem
 
 
 ## 06 Challenge
-- [oo] 29-infinite-scroll.problem
-- [oo] 29.2-dynamic-function-arguments.problem
-- [XXoo] 29.5-pick.problem
-- [oo] 30-form-validator.problem
-- [oo] 32-data-fetcher-with-warning.problem
-- [oo] 33-compose.problem
-- [XoXo] 34-internationalization.problem
+- [oo.o] 29-infinite-scroll.problem
+- [oo.-] 29.2-dynamic-function-arguments.problem
+- [xxoo.o] 29.5-pick.problem
+- [oo.-] 30-form-validator.problem
+- [oo.o] 32-data-fetcher-with-warning.problem
+- [oo.-] 33-compose.problem
+- [xoxo.o] 34-internationalization.problem
