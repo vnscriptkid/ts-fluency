@@ -1,18 +1,18 @@
 # Course
 
 ## 01-branded-types
-- [o]02-form-validation.problem
-- [o]03-entity-fetching.problem
-- [o]04-reusable-valid-brand.problem
-- [Xo]05-currency-conversion.problem
-- [XXo]06-index-signatures.problem
+- [o.o]02-form-validation.problem
+- [o.o]03-entity-fetching.problem
+- [o.-]04-reusable-valid-brand.problem
+- [xo.o]05-currency-conversion.problem
+- [xxo.o]06-index-signatures.problem
 
 ## 02-globals
-- [o]07-add-function-to-global-scope.problem
-- [o]08-add-to-window.problem
-- [o]09-adding-to-process-env.problem
-- [o]10-event-dispatcher.problem.1
-- [o]10-event-dispatcher.problem.2
+- [o.o]07-add-function-to-global-scope.problem
+- [o.o]08-add-to-window.problem
+- [o.o]09-adding-to-process-env.problem
+- [o.x]10-event-dispatcher.problem.1
+- [o.x]10-event-dispatcher.problem.2
 
 ## 03-type-predicates-assertion-functions
 - [Xo]12-type-predicates-with-filter.problem
