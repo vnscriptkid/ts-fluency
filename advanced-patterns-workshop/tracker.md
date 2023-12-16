@@ -15,20 +15,20 @@
 - [o.x]10-event-dispatcher.problem.2
 
 ## 03-type-predicates-assertion-functions
-- [Xo]12-type-predicates-with-filter.problem
-- [Xo]13-assertion-functions.problem
-- [o]14-typescripts-worst-error.problem
-- [XXo]15-type-predicates-with-generics.problem
-- [o]16-brands-and-type-predicates.problem
-- [o]17-brands-and-assertion-functions.problem
+- [xo.x]12-type-predicates-with-filter.problem
+- [xo.o]13-assertion-functions.problem
+- [o.x]14-typescripts-worst-error.problem
+- [xxo.x]15-type-predicates-with-generics.problem
+- [o.o]16-brands-and-type-predicates.problem
+- [o.o]17-brands-and-assertion-functions.problem
 
 ## 04-classes
-- [o]17.8-classes-as-types-and-value.problem
-- [Xo]18-type-predicates-and-classes.problem
-- [o]18.2-assertion-functions-and-classes.problem
-- [o]20-type-safe-map.problem
-- [o]21-importance-of-default-generic.problem
-- [o]22-dynamic-middleware.problem
+- [o.o]17.8-classes-as-types-and-value.problem
+- [xo.x]18-type-predicates-and-classes.problem
+- [o.o]18.2-assertion-functions-and-classes.problem
+- [o.x]20-type-safe-map.problem
+- [o.x]21-importance-of-default-generic.problem
+- [o.x]22-dynamic-middleware.problem
 
 ## 05-external-libraries
 - [o]23-extract-external-lib-types.problem
