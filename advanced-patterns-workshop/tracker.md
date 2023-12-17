@@ -31,18 +31,18 @@
 - [o.x]22-dynamic-middleware.problem
 
 ## 05-external-libraries
-- [o]23-extract-external-lib-types.problem
-- [o]24-lodash-groupby.problem
-- [Xo]25-usage-with-express.problem
-- [Xo]26-usage-with-zod.problem
-- [XXo]26.5-override-external-lib-types.problem
+- [o.x]23-extract-external-lib-types.problem
+- [o.-]24-lodash-groupby.problem
+- [xo.x]25-usage-with-express.problem
+- [xo.x]26-usage-with-zod.problem
+- [xxo.x]26.5-override-external-lib-types.problem
 
 ## 06-identity-functions
-- [Xo]27-const-annotations.problem
-- [o]28-constraints-with-const-annotations.problems
-- [Xo]29-finite-state-machine.problem
-- [o]30-no-generics-on-objects.problem
-- [o]30.5-reverse-mapped-types.problem
+- [xo.-]27-const-annotations.problem
+- [o.x]28-constraints-with-const-annotations.problems
+- [xo.x]29-finite-state-machine.problem
+- [o.x]30-no-generics-on-objects.problem
+- [o.x]30.5-reverse-mapped-types.problem
 
 ## 07-challenges
 - [Xo]31-merge-dynamic-object-with-global.problem
