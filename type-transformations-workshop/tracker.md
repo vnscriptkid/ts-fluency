@@ -1,21 +1,21 @@
 ## Type Transformations Workshop Welcome
 ### 01-inference-basics
-- [oo.o]01-get-function-return-type.problem
-- [oo.o]01.5-gabriel-typeof-keyword.explainerLevel
-- [oo.o]02-get-function-parameters.problem
-- [oo.o]03-awaited.problem
-- [oo.o]04-get-object-keys.problem
+- [oo.oo]01-get-function-return-type.problem
+- [oo.oo]01.5-gabriel-typeof-keyword.explainerLevel
+- [oo.oo]02-get-function-parameters.problem
+- [oo.oo]03-awaited.problem
+- [oo.oo]04-get-object-keys.problem
 
 ### 02-unions-and-indexing
-- [oo.o] 05-terminology.problem
-- [oo.x] 06-extract-from-discriminated-union.problem
-- [oo.x] 07-exclude-from-discriminated-union.problem
-- [oo.o] 08-indexed-access.problem
-- [oo.o] 09-discriminated-union-to-discriminator.problem
-- [oo.o] 10-as-const.problem
-- [oxo.o] 11-indexed-access-with-unions.problem
-- [oo.o] 12-get-object-values.problem
-- [oo.o] 13-get-array-value.problem
+- [oo.oo] 05-terminology.problem
+- [oo.xo] 06-extract-from-discriminated-union.problem
+- [oo.xo] 07-exclude-from-discriminated-union.problem
+- [oo.oo] 08-indexed-access.problem
+- [oo.oo] 09-discriminated-union-to-discriminator.problem
+- [oo.oo] 10-as-const.problem
+- [oxo.o-] 11-indexed-access-with-unions.problem
+- [oo.oo] 12-get-object-values.problem
+- [oo.oo] 13-get-array-value.problem
 
 ### 03-template-literals
 - [oo.o] 14-template-literal-with-string.problem
