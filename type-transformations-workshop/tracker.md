@@ -18,22 +18,22 @@
 - [oo.oo] 13-get-array-value.problem
 
 ### 03-template-literals
-- [oo.o] 14-template-literal-with-string.problem
-- [oo.o] 15-extract-with-template-literals.problem
-- [oo.o] 16-unions-in-template-literals.problem
-- [oo.o] 17-splitting-strings.problem
-- [oo.o] 18-template-literals-in-object-keys.problem
-- [oo.o] 19-uppercase-object.problem
+- [oo.oo] 14-template-literal-with-string.problem
+- [oo.oo] 15-extract-with-template-literals.problem
+- [oo.oo] 16-unions-in-template-literals.problem
+- [oo.oo] 17-splitting-strings.problem
+- [oo.oo] 18-template-literals-in-object-keys.problem
+- [oo.oo] 19-uppercase-object.problem
 
 ### 03.5-type-helpers-pattern
-- [oo.o] 20-type-helpers-pattern.problem
-- [oo.o] 20.1-maybe.problem
-- [oo.o] 20.2-constraints.problem
-- [oo.o] 20.3-multiple.problem
-- [oo.x] 20.4-defaults.problem
-- [oo.o] 20.5-function-constraints.problem
-- [xoo.x] 20.6-not-undefined-or-null-constraint.problem
-- [oxo.o] 20.7-non-empty-array.problem
+- [oo.oo] 20-type-helpers-pattern.problem
+- [oo.oo] 20.1-maybe.problem
+- [oo.oo] 20.2-constraints.problem
+- [oo.oo] 20.3-multiple.problem
+- [oo.xo] 20.4-defaults.problem
+- [oo.oo] 20.5-function-constraints.problem
+- [xoo.xo] 20.6-not-undefined-or-null-constraint.problem
+- [oxo.oo] 20.7-non-empty-array.problem
 
 ### 04-conditional-types-and-infer
 - [oo.o] 21-conditional-types.problem
