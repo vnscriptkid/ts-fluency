@@ -36,24 +36,24 @@
 - [oxo.oo] 20.7-non-empty-array.problem
 
 ### 04-conditional-types-and-infer
-- [oo.o] 21-conditional-types.problem
-- [oxo.o] 22-returning-never.problem
-- [oo.x] 23-infer-with-raw-values.problem
-- [xxxxo.o] 24-infer-with-generics.problem
-- [xxo.o] 25-template-literal-value-extraction.problem
-- [oo.o] 26-get-result-from-async-function.problem
-- [xxxo.o] 27-infer-in-union-types.problem
-- [xxo.-] 28-distributive-conditional-types.problem
+- [oo.oo] 21-conditional-types.problem
+- [oxo.oo] 22-returning-never.problem
+- [oo.x-] 23-infer-with-raw-values.problem
+- [xxxxo.oo] 24-infer-with-generics.problem
+- [xxo.oo] 25-template-literal-value-extraction.problem
+- [oo.oo] 26-get-result-from-async-function.problem
+- [xxxo.oo] 27-infer-in-union-types.problem
+- [xxo.--] 28-distributive-conditional-types.problem
 
 ### 05-key-remapping
-- [oo.o] 29-union-to-object.problem
-- [oo.x] 30-k-in-keyof.problem
-- [oo.o] 31-k-in-keyof-as.problem
-- [xxo.x] 32-never-in-key-remapping.problem
-- [xxo.-] 33-discriminated-union-to-object.problem
-- [oo.o] 34-object-to-union-of-tuples.problem
-- [oo.o] 35-object-to-union-of-template-literals.problem
-- [xo.x] 36-discriminated-union-to-union.problem
+- [oo.oo] 29-union-to-object.problem
+- [oo.xo] 30-k-in-keyof.problem
+- [oo.oo] 31-k-in-keyof-as.problem
+- [xxo.xo] 32-never-in-key-remapping.problem
+- [xxo.--] 33-discriminated-union-to-object.problem
+- [oo.o-] 34-object-to-union-of-tuples.problem
+- [oo.oo] 35-object-to-union-of-template-literals.problem
+- [xo.x-] 36-discriminated-union-to-union.problem
 
 ### 06-challenges
 - [oo.x] 37-get-dynamic-path-params.problem
