@@ -1,18 +1,18 @@
 # Generic workshop
 
 ## 01 Introduction
-- [oo.x] 01-return-what-i-pass-in.problem
-- [oo.o] 02-generic-constraints.problem
-- [oo.o] 03-multiple-generics.problem
-- [xxxoo.-] 04-multiple-generics-per-object.problem
-- [oo.o] 05-generics-in-classes.problem
-- [oo.x] 06-generic-mapper.problem
+- [oo.xo] 01-return-what-i-pass-in.problem
+- [oo.oo] 02-generic-constraints.problem
+- [oo.oo] 03-multiple-generics.problem
+- [xxxoo.-o] 04-multiple-generics-per-object.problem
+- [oo.oo] 05-generics-in-classes.problem
+- [oo.xo] 06-generic-mapper.problem
 
 ## 02 Passing type args
-- [oo.o] 07-create-new-set.problem
-- [oo.o] 08-default-generics.problem
-- [oo.-] 09-generics-in-type-arguments-in-arguments.problem
-- [oxoo.o] 10-reduce.problem
+- [oo.oo] 07-create-new-set.problem
+- [oo.oo] 08-default-generics.problem
+- [oo.-o] 09-generics-in-type-arguments-in-arguments.problem
+- [oxoo.oo] 10-reduce.problem
 - [oo.o] 11-data-fetcher.problem
 
 ## 03 Art of type args
