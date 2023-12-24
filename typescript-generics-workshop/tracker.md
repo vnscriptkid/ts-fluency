@@ -16,12 +16,13 @@
 - [oo.o] 11-data-fetcher.problem
 
 ## 03 Art of type args
-- [xoxo.-] 12-generics-at-different-levels.problem
-- [oo.-] 13-typed-object-keys.problem
-- [xoo.-] 14-safe-function.problem
+- [xoxo.-o] 12-generics-at-different-levels.problem
+- [oo.-x] 13-typed-object-keys.problem
+- [xoo.--] 14-safe-function.problem
 - [xoo.x] 14.7-string-number-union.problem
-- [oo.o] 15-array-or-array-member-in-generics.problem
-- [oo.o] 16-class-names-creator.problem
+- [oo.oo] 15-array-or-array-member-in-generics.problem
+- [oo.oo] 16-class-names-creator.problem
+- 
 ## 04 Generic advanced
 - [xoo.x] 17-you-say-goodbye-i-say-hello.problem
 - [oxoo.x] 17.5-inference-inside-generic-functions.problem
