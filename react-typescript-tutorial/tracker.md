@@ -26,3 +26,17 @@
 - [x] 19-use-ref-with-elements.problem.tsx
 - [o] 20-why-is-my-ref-readonly.problem.tsx
 - [-] 21-use-reducer.problem.ts
+
+#### 04
+- [-] 22-discriminated-union-props.problem.tsx
+- [x] 23-destructuring-discriminated-unions.problem.tsx
+- [x] 24-discriminated-union-with-other-props.problem.tsx
+- [o] 25-toggle-props.problem.tsx
+- [] 26-empty-object-type.explainer.tsx
+- [o] 27-either-all-these-props-or-none.problem.tsx
+- [-] 28-passing-react-components-vs-passing-react-nodes.problem.tsx
+- [o] 29-variants-with-classnames.problem.tsx
+- [x] 30-partial-autocomplete.problem.tsx
+- [-] 31-as-const.problem.ts
+- [x] 32-satisfies-vs-annotation-vs-as.problem.tsx
+- [x] 33-prop-groups-with-variants.problem.tsx
