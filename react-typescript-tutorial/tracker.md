@@ -40,3 +40,60 @@
 - [-] 31-as-const.problem.ts
 - [x] 32-satisfies-vs-annotation-vs-as.problem.tsx
 - [x] 33-prop-groups-with-variants.problem.tsx
+
+#### 05
+- 34-type-helpers.problem.tsx
+- 35-type-helpers-2.problem.tsx
+- 36-type-helpers-with-constraints.problem.tsx
+- 37-generic-localstorage-hook.problem.ts
+- 38-generic-hooks.problem.ts
+- 39-generic-props.problem.tsx
+- 40-generic-class-components.problem.tsx
+- 41-passing-types-to-components.problem.tsx
+- 42-generic-inference-through-multiple-helpers.problem.tsx
+- 43-inference-flow-with-constraints.problem.ts
+- 44-generics-vs-discriminated-unions.problem.tsx
+
+#### 06
+- 45-tuple-return-type.problem.ts
+- 46-required-context.problem.tsx
+- 47-unions-in-usestate.problem.tsx
+- 48-discriminated-unions-in-usestate.problem.tsx
+- 49-discriminated-tuples-from-custom-hooks.problem.tsx
+- 50-use-state-overloads.problem.ts
+- 51-function-overloads-in-hooks.problem.ts
+- 52-currying-hooks.problem.ts
+
+#### 07
+- 53-understand-react-namespace-export.problem.ts
+- 54-understanding-jsx-element.problem.tsx
+- 55-strongly-typing-children.problem.tsx
+- 56-understanding-jsx-intrinsic-elements.problem.tsx
+- 57-react-component-type.explainer.tsx
+- 58-appending-to-global-namespace.problem.ts
+- 59-declaration-merging-in-global-namespace.problem.ts
+- 60-add-new-global-element.problem.tsx
+- 61-html-attributes.problem.tsx
+- 62-add-attribute-to-all-elements.problem.tsx
+
+#### 08
+- 63-lazy-load-component.problem.tsx
+- 64-render-props.problem.tsx
+- 64.5-record-of-components-with-same-props.problem.tsx
+- 65-forward-ref-with-generics.explainer.1.tsx
+- 65-forward-ref-with-generics.explainer.2.tsx
+- 65-forward-ref-with-generics.explainer.3.tsx
+- 66-forward-ref-as-local-function.problem.tsx
+- 67-hoc.problem.tsx
+- 67.5-hoc-for-generic-components.problem.tsx
+- 69-as-prop.problem.tsx
+- 70-as-prop-with-custom-components.problem.tsx
+- 71-as-prop-with-default.problem.tsx
+- 72-as-prop-with-forward-ref.problem.tsx
+
+#### 09
+- 73-react-hook-form.problem.tsx
+- 74-react-hook-form-wrapper.problem.tsx
+- 75-react-select.problem.tsx
+- 76-react-query.problem.ts
+- 77-react-query-wrapper.problem.ts
