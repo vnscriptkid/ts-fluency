@@ -42,17 +42,17 @@
 - [x] 33-prop-groups-with-variants.problem.tsx
 
 #### 05
-- 34-type-helpers.problem.tsx
-- 35-type-helpers-2.problem.tsx
-- 36-type-helpers-with-constraints.problem.tsx
-- 37-generic-localstorage-hook.problem.ts
-- 38-generic-hooks.problem.ts
-- 39-generic-props.problem.tsx
-- 40-generic-class-components.problem.tsx
-- 41-passing-types-to-components.problem.tsx
-- 42-generic-inference-through-multiple-helpers.problem.tsx
-- 43-inference-flow-with-constraints.problem.ts
-- 44-generics-vs-discriminated-unions.problem.tsx
+- [x] 34-type-helpers.problem.tsx
+- [x] 35-type-helpers-2.problem.tsx
+- [o] 36-type-helpers-with-constraints.problem.tsx
+- [x] 37-generic-localstorage-hook.problem.ts
+- [o] 38-generic-hooks.problem.ts
+- [x] 39-generic-props.problem.tsx
+- [x] 40-generic-class-components.problem.tsx
+- [x] 41-passing-types-to-components.problem.tsx
+- [x] 42-generic-inference-through-multiple-helpers.problem.tsx
+- [x] 43-inference-flow-with-constraints.problem.ts
+- [o] 44-generics-vs-discriminated-unions.problem.tsx
 
 #### 06
 - 45-tuple-return-type.problem.ts
