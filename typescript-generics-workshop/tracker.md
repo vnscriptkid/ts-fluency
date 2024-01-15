@@ -34,14 +34,14 @@
 - [xoxo.x-] 20.7-working-around-partial-inference.problem
 
 ## 05 Func overloads
-- [oo.x] 21-what-is-a-function-overload.problem
-- [oo.o] 22-function-overloads-vs-conditional-types.problem
-- [oo.o] 23-function-overload-implementation.problem
-- [oo.x] 24-function-overloads-vs-union-types.problem
-- [oo.o] 25-generics-in-function-overloads.problem
-- [xoo.o] 26-document.queryselector-example.problem
-- [oo.o] 27-use-data-hook.problem
-- [xxoxo.-] 28-could-be-instantiated-with-subtype-of.problem
+- [oo.xo] 21-what-is-a-function-overload.problem
+- [oo.oo] 22-function-overloads-vs-conditional-types.problem
+- [oo.oo] 23-function-overload-implementation.problem
+- [oo.x-] 24-function-overloads-vs-union-types.problem
+- [oo.oo] 25-generics-in-function-overloads.problem
+- [xoo.ox] 26-document.queryselector-example.problem
+- [oo.o-] 27-use-data-hook.problem
+- [xxoxo.-x] 28-could-be-instantiated-with-subtype-of.problem
 
 
 ## 06 Challenge
