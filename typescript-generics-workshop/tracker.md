@@ -45,10 +45,10 @@
 
 
 ## 06 Challenge
-- [oo.o] 29-infinite-scroll.problem
-- [oo.-] 29.2-dynamic-function-arguments.problem
-- [xxoo.o] 29.5-pick.problem
-- [oo.-] 30-form-validator.problem
-- [oo.o] 32-data-fetcher-with-warning.problem
-- [oo.-] 33-compose.problem
-- [xoxo.o] 34-internationalization.problem
+- [oo.oo] 29-infinite-scroll.problem
+- [oo.-o] 29.2-dynamic-function-arguments.problem
+- [xxoo.ox] 29.5-pick.problem
+- [oo.-o] 30-form-validator.problem
+- [oo.oo] 32-data-fetcher-with-warning.problem
+- [oo.-o] 33-compose.problem
+- [xoxo.oo] 34-internationalization.problem
