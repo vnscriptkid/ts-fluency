@@ -55,14 +55,14 @@
 - [o] 44-generics-vs-discriminated-unions.problem.tsx
 
 #### 06
-- 45-tuple-return-type.problem.ts
-- 46-required-context.problem.tsx
-- 47-unions-in-usestate.problem.tsx
-- 48-discriminated-unions-in-usestate.problem.tsx
-- 49-discriminated-tuples-from-custom-hooks.problem.tsx
-- 50-use-state-overloads.problem.ts
-- 51-function-overloads-in-hooks.problem.ts
-- 52-currying-hooks.problem.ts
+- [-] 45-tuple-return-type.problem.ts
+- [x] 46-required-context.problem.tsx
+- [o] 47-unions-in-usestate.problem.tsx
+- [o] 48-discriminated-unions-in-usestate.problem.tsx
+- [o] 49-discriminated-tuples-from-custom-hooks.problem.tsx
+- [o] 50-use-state-overloads.problem.ts
+- [o] 51-function-overloads-in-hooks.problem.ts
+- [x] 52-currying-hooks.problem.ts
 
 #### 07
 - 53-understand-react-namespace-export.problem.ts
