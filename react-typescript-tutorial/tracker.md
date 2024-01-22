@@ -65,16 +65,16 @@
 - [x] 52-currying-hooks.problem.ts
 
 #### 07
-- 53-understand-react-namespace-export.problem.ts
-- 54-understanding-jsx-element.problem.tsx
-- 55-strongly-typing-children.problem.tsx
-- 56-understanding-jsx-intrinsic-elements.problem.tsx
-- 57-react-component-type.explainer.tsx
-- 58-appending-to-global-namespace.problem.ts
-- 59-declaration-merging-in-global-namespace.problem.ts
-- 60-add-new-global-element.problem.tsx
-- 61-html-attributes.problem.tsx
-- 62-add-attribute-to-all-elements.problem.tsx
+- [] 53-understand-react-namespace-export.problem.ts
+- [] 54-understanding-jsx-element.problem.tsx
+- [] 55-strongly-typing-children.problem.tsx
+- [o] 56-understanding-jsx-intrinsic-elements.problem.tsx
+- [] 57-react-component-type.explainer.tsx
+- [o] 58-appending-to-global-namespace.problem.ts
+- [o] 59-declaration-merging-in-global-namespace.problem.ts
+- [o] 60-add-new-global-element.problem.tsx
+- [] 61-html-attributes.problem.tsx
+- [o] 62-add-attribute-to-all-elements.problem.tsx
 
 #### 08
 - 63-lazy-load-component.problem.tsx
