@@ -15,12 +15,12 @@
 - [o.xo]10-event-dispatcher.problem.2
 
 ## 03-type-predicates-assertion-functions
-- [xo.x]12-type-predicates-with-filter.problem
-- [xo.o]13-assertion-functions.problem
-- [o.x]14-typescripts-worst-error.problem
-- [xxo.x]15-type-predicates-with-generics.problem
-- [o.o]16-brands-and-type-predicates.problem
-- [o.o]17-brands-and-assertion-functions.problem
+- [xo.xx]12-type-predicates-with-filter.problem
+- [xo.oo]13-assertion-functions.problem
+- [o.xo]14-typescripts-worst-error.problem
+- [xxo.xx]15-type-predicates-with-generics.problem
+- [o.oo]16-brands-and-type-predicates.problem
+- [o.oo]17-brands-and-assertion-functions.problem
 
 ## 04-classes
 - [o.o]17.8-classes-as-types-and-value.problem
