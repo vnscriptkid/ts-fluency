@@ -77,19 +77,19 @@
 - [o] 62-add-attribute-to-all-elements.problem.tsx
 
 #### 08
-- 63-lazy-load-component.problem.tsx
-- 64-render-props.problem.tsx
-- 64.5-record-of-components-with-same-props.problem.tsx
-- 65-forward-ref-with-generics.explainer.1.tsx
-- 65-forward-ref-with-generics.explainer.2.tsx
-- 65-forward-ref-with-generics.explainer.3.tsx
-- 66-forward-ref-as-local-function.problem.tsx
-- 67-hoc.problem.tsx
-- 67.5-hoc-for-generic-components.problem.tsx
-- 69-as-prop.problem.tsx
-- 70-as-prop-with-custom-components.problem.tsx
-- 71-as-prop-with-default.problem.tsx
-- 72-as-prop-with-forward-ref.problem.tsx
+- [x] 63-lazy-load-component.problem.tsx
+- [x] 64-render-props.problem.tsx
+- [x] 64.5-record-of-components-with-same-props.problem.tsx
+- [@] 65-forward-ref-with-generics.explainer.1.tsx
+- [] 65-forward-ref-with-generics.explainer.2.tsx
+- [] 65-forward-ref-with-generics.explainer.3.tsx
+- [x] 66-forward-ref-as-local-function.problem.tsx
+- [x] 67-hoc.problem.tsx
+- [] 67.5-hoc-for-generic-components.problem.tsx
+- [] 69-as-prop.problem.tsx
+- [] 70-as-prop-with-custom-components.problem.tsx
+- [] 71-as-prop-with-default.problem.tsx
+- [] 72-as-prop-with-forward-ref.problem.tsx
 
 #### 09
 - 73-react-hook-form.problem.tsx
