@@ -23,12 +23,12 @@
 - [o.oo]17-brands-and-assertion-functions.problem
 
 ## 04-classes
-- [o.o]17.8-classes-as-types-and-value.problem
-- [xo.x]18-type-predicates-and-classes.problem
-- [o.o]18.2-assertion-functions-and-classes.problem
-- [o.x]20-type-safe-map.problem
-- [o.x]21-importance-of-default-generic.problem
-- [o.x]22-dynamic-middleware.problem
+- [o.oo]17.8-classes-as-types-and-value.problem
+- [xo.xo]18-type-predicates-and-classes.problem
+- [o.oo]18.2-assertion-functions-and-classes.problem
+- [o.x-]20-type-safe-map.problem
+- [o.x-]21-importance-of-default-generic.problem
+- [o.x-]22-dynamic-middleware.problem
 
 ## 05-external-libraries
 - [o.x]23-extract-external-lib-types.problem
