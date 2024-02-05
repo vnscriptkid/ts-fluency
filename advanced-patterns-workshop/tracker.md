@@ -31,11 +31,11 @@
 - [o.x-]22-dynamic-middleware.problem
 
 ## 05-external-libraries
-- [o.x]23-extract-external-lib-types.problem
-- [o.-]24-lodash-groupby.problem
-- [xo.x]25-usage-with-express.problem
-- [xo.x]26-usage-with-zod.problem
-- [xxo.x]26.5-override-external-lib-types.problem
+- [o.xo]23-extract-external-lib-types.problem
+- [o.-o]24-lodash-groupby.problem
+- [xo.xx]25-usage-with-express.problem
+- [xo.xo]26-usage-with-zod.problem
+- [xxo.xx]26.5-override-external-lib-types.problem
 
 ## 06-identity-functions
 - [xo.-]27-const-annotations.problem
