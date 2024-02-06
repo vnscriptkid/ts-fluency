@@ -38,11 +38,11 @@
 - [xxo.xx]26.5-override-external-lib-types.problem
 
 ## 06-identity-functions
-- [xo.-]27-const-annotations.problem
-- [o.x]28-constraints-with-const-annotations.problems
-- [xo.x]29-finite-state-machine.problem
-- [o.x]30-no-generics-on-objects.problem
-- [o.x]30.5-reverse-mapped-types.problem
+- [xo.-x]27-const-annotations.problem
+- [o.xx]28-constraints-with-const-annotations.problems
+- [xo.xx]29-finite-state-machine.problem
+- [o.xo]30-no-generics-on-objects.problem
+- [o.xx]30.5-reverse-mapped-types.problem
 
 ## 07-challenges
 - [xo.x]31-merge-dynamic-object-with-global.problem
