@@ -45,8 +45,8 @@
 - [o.xx]30.5-reverse-mapped-types.problem
 
 ## 07-challenges
-- [xo.x]31-merge-dynamic-object-with-global.problem
-- [o.x]32-narrow-with-arrays.problem
-- [o.o]33-zod-with-express.problem
-- [xo.x]34-dynamic-reducer.problem
-- [o.x]38-challenge-custom-jsx-element.problem
+- [xo.xx]31-merge-dynamic-object-with-global.problem
+- [o.xo]32-narrow-with-arrays.problem
+- [o.ox]33-zod-with-express.problem
+- [xo.xo]34-dynamic-reducer.problem
+- [o.xx]38-challenge-custom-jsx-element.problem
