@@ -1,10 +1,10 @@
 ## Type Transformations Workshop Welcome
 ### 01-inference-basics
-- [oo.oo]01-get-function-return-type.problem
-- [oo.oo]01.5-gabriel-typeof-keyword.explainerLevel
-- [oo.oo]02-get-function-parameters.problem
-- [oo.oo]03-awaited.problem
-- [oo.oo]04-get-object-keys.problem
+- [oo.ooo]01-get-function-return-type.problem
+- [oo.ooo]01.5-gabriel-typeof-keyword.explainerLevel
+- [oo.ooo]02-get-function-parameters.problem
+- [oo.ooo]03-awaited.problem
+- [oo.ooo]04-get-object-keys.problem
 
 ### 02-unions-and-indexing
 - [oo.oo] 05-terminology.problem
