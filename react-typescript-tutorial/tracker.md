@@ -85,10 +85,10 @@
 - [] 65-forward-ref-with-generics.explainer.3.tsx
 - [x] 66-forward-ref-as-local-function.problem.tsx
 - [x] 67-hoc.problem.tsx
-- [] 67.5-hoc-for-generic-components.problem.tsx
-- [] 69-as-prop.problem.tsx
-- [] 70-as-prop-with-custom-components.problem.tsx
-- [] 71-as-prop-with-default.problem.tsx
+- [x] 67.5-hoc-for-generic-components.problem.tsx
+- [x] 69-as-prop.problem.tsx
+- [x] 70-as-prop-with-custom-components.problem.tsx
+- [x] 71-as-prop-with-default.problem.tsx
 - [] 72-as-prop-with-forward-ref.problem.tsx
 
 #### 09
