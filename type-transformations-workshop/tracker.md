@@ -7,15 +7,15 @@
 - [oo.ooo]04-get-object-keys.problem
 
 ### 02-unions-and-indexing
-- [oo.oo] 05-terminology.problem
-- [oo.xo] 06-extract-from-discriminated-union.problem
-- [oo.xo] 07-exclude-from-discriminated-union.problem
-- [oo.oo] 08-indexed-access.problem
-- [oo.oo] 09-discriminated-union-to-discriminator.problem
-- [oo.oo] 10-as-const.problem
-- [oxo.o-] 11-indexed-access-with-unions.problem
-- [oo.oo] 12-get-object-values.problem
-- [oo.oo] 13-get-array-value.problem
+- [oo.ooo] 05-terminology.problem
+- [oo.xoo] 06-extract-from-discriminated-union.problem
+- [oo.xoo] 07-exclude-from-discriminated-union.problem
+- [oo.ooo] 08-indexed-access.problem
+- [oo.ooo] 09-discriminated-union-to-discriminator.problem
+- [oo.ooo] 10-as-const.problem
+- [oxo.o-o] 11-indexed-access-with-unions.problem
+- [oo.ooo] 12-get-object-values.problem
+- [oo.ooo] 13-get-array-value.problem
 
 ### 03-template-literals
 - [oo.oo] 14-template-literal-with-string.problem
