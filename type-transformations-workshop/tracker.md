@@ -46,14 +46,14 @@
 - [xxo.--o] 28-distributive-conditional-types.problem
 
 ### 05-key-remapping
-- [oo.oo] 29-union-to-object.problem
-- [oo.xo] 30-k-in-keyof.problem
-- [oo.oo] 31-k-in-keyof-as.problem
-- [xxo.xo] 32-never-in-key-remapping.problem
-- [xxo.--] 33-discriminated-union-to-object.problem
-- [oo.o-] 34-object-to-union-of-tuples.problem
-- [oo.oo] 35-object-to-union-of-template-literals.problem
-- [xo.x-] 36-discriminated-union-to-union.problem
+- [oo.ooo] 29-union-to-object.problem
+- [oo.xoo] 30-k-in-keyof.problem
+- [oo.ooo] 31-k-in-keyof-as.problem
+- [xxo.xo-] 32-never-in-key-remapping.problem
+- [xxo.--o] 33-discriminated-union-to-object.problem
+- [oo.o-o] 34-object-to-union-of-tuples.problem
+- [oo.ooo] 35-object-to-union-of-template-literals.problem
+- [xo.x-o] 36-discriminated-union-to-union.problem
 
 ### 06-challenges
 - [oo.xo] 37-get-dynamic-path-params.problem
