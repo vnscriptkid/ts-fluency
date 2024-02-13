@@ -36,14 +36,14 @@
 - [oxo.ooo] 20.7-non-empty-array.problem
 
 ### 04-conditional-types-and-infer
-- [oo.oo] 21-conditional-types.problem
-- [oxo.oo] 22-returning-never.problem
-- [oo.x-] 23-infer-with-raw-values.problem
-- [xxxxo.oo] 24-infer-with-generics.problem
-- [xxo.oo] 25-template-literal-value-extraction.problem
-- [oo.oo] 26-get-result-from-async-function.problem
-- [xxxo.oo] 27-infer-in-union-types.problem
-- [xxo.--] 28-distributive-conditional-types.problem
+- [oo.ooo] 21-conditional-types.problem
+- [oxo.ooo] 22-returning-never.problem
+- [oo.x--] 23-infer-with-raw-values.problem
+- [xxxxo.oo-] 24-infer-with-generics.problem
+- [xxo.ooo] 25-template-literal-value-extraction.problem
+- [oo.ooo] 26-get-result-from-async-function.problem
+- [xxxo.ooo] 27-infer-in-union-types.problem
+- [xxo.--o] 28-distributive-conditional-types.problem
 
 ### 05-key-remapping
 - [oo.oo] 29-union-to-object.problem
