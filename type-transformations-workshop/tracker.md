@@ -56,7 +56,7 @@
 - [xo.x-o] 36-discriminated-union-to-union.problem
 
 ### 06-challenges
-- [oo.xo] 37-get-dynamic-path-params.problem
-- [xxo.xx] 38-mutually-exclusive-properties.problem
-- [xo.x-] 39-discriminated-union-with-unique-values-to-object.problem
-- [xxo.x-] 40-deep-partial.problem
+- [oo.xoo] 37-get-dynamic-path-params.problem
+- [xxo.xxo] 38-mutually-exclusive-properties.problem
+- [xo.x-o] 39-discriminated-union-with-unique-values-to-object.problem
+- [xxo.x-o] 40-deep-partial.problem
