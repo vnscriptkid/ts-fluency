@@ -1,12 +1,12 @@
 # Generic workshop
 
 ## 01 Introduction
-- [oo.xo] 01-return-what-i-pass-in.problem
-- [oo.oo] 02-generic-constraints.problem
-- [oo.oo] 03-multiple-generics.problem
-- [xxxoo.-o] 04-multiple-generics-per-object.problem
-- [oo.oo] 05-generics-in-classes.problem
-- [oo.xo] 06-generic-mapper.problem
+- [oo.xoo] 01-return-what-i-pass-in.problem
+- [oo.ooo] 02-generic-constraints.problem
+- [oo.ooo] 03-multiple-generics.problem
+- [xxxoo.-oo] 04-multiple-generics-per-object.problem
+- [oo.ooo] 05-generics-in-classes.problem
+- [oo.xoo] 06-generic-mapper.problem
 
 ## 02 Passing type args
 - [oo.oo] 07-create-new-set.problem
