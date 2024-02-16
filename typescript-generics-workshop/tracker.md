@@ -9,11 +9,11 @@
 - [oo.xoo] 06-generic-mapper.problem
 
 ## 02 Passing type args
-- [oo.oo] 07-create-new-set.problem
-- [oo.oo] 08-default-generics.problem
-- [oo.-o] 09-generics-in-type-arguments-in-arguments.problem
-- [oxoo.oo] 10-reduce.problem
-- [oo.o] 11-data-fetcher.problem
+- [oo.ooo] 07-create-new-set.problem
+- [oo.ooo] 08-default-generics.problem
+- [oo.-ooo] 09-generics-in-type-arguments-in-arguments.problem
+- [oxoo.ooo] 10-reduce.problem
+- [oo.oo] 11-data-fetcher.problem
 
 ## 03 Art of type args
 - [xoxo.-o] 12-generics-at-different-levels.problem
