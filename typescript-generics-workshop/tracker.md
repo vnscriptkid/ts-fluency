@@ -24,14 +24,14 @@
 - [oo.ooo] 16-class-names-creator.problem
 - 
 ## 04 Generic advanced
-- [xoo.x-] 17-you-say-goodbye-i-say-hello.problem
-- [oxoo.xo] 17.5-inference-inside-generic-functions.problem
-- [oo.oo] 18-generic-currying.problem
-- [oo.oo] 19-generic-interfaces-with-functions.problem
-- [oo.xx] 20-spotting-useless-generics.problem
-- [oo.oo] 20.5-spotting-missing-generics.problem
-- [xoxo.xo] 20.6-reusable-context.problem
-- [xoxo.x-] 20.7-working-around-partial-inference.problem
+- [xoo.x--] 17-you-say-goodbye-i-say-hello.problem
+- [oxoo.xoo] 17.5-inference-inside-generic-functions.problem
+- [oo.ooo] 18-generic-currying.problem
+- [oo.ooo] 19-generic-interfaces-with-functions.problem
+- [oo.xxo] 20-spotting-useless-generics.problem
+- [oo.ooo] 20.5-spotting-missing-generics.problem
+- [xoxo.xoo] 20.6-reusable-context.problem
+- [xoxo.x-o] 20.7-working-around-partial-inference.problem
 
 ## 05 Func overloads
 - [oo.xo] 21-what-is-a-function-overload.problem
