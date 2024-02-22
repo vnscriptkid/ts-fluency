@@ -1,11 +1,11 @@
 # Course
 
 ## 01-branded-types
-- [o.oo]02-form-validation.problem
-- [o.o-]03-entity-fetching.problem
-- [o.-o]04-reusable-valid-brand.problem
-- [xo.oo]05-currency-conversion.problem
-- [xxo.oo]06-index-signatures.problem
+- [o.ooo]02-form-validation.problem
+- [o.o-o]03-entity-fetching.problem
+- [o.-oo]04-reusable-valid-brand.problem
+- [xo.ooo]05-currency-conversion.problem
+- [xxo.ooo]06-index-signatures.problem
 
 ## 02-globals
 - [o.oo]07-add-function-to-global-scope.problem
