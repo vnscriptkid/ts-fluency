@@ -8,11 +8,11 @@
 - [xxo.ooo]06-index-signatures.problem
 
 ## 02-globals
-- [o.oo]07-add-function-to-global-scope.problem
-- [o.oo]08-add-to-window.problem
-- [o.oo]09-adding-to-process-env.problem
-- [o.xo]10-event-dispatcher.problem.1
-- [o.xo]10-event-dispatcher.problem.2
+- [o.ooo]07-add-function-to-global-scope.problem
+- [o.ooo]08-add-to-window.problem
+- [o.ooo]09-adding-to-process-env.problem
+- [o.xoo]10-event-dispatcher.problem.1
+- [o.xoo]10-event-dispatcher.problem.2
 
 ## 03-type-predicates-assertion-functions
 - [xo.xx]12-type-predicates-with-filter.problem
