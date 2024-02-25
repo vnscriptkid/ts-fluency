@@ -94,6 +94,6 @@
 #### 09
 - [v] 73-react-hook-form.problem.tsx
 - [v] 74-react-hook-form-wrapper.problem.tsx
-- [] 75-react-select.problem.tsx
-- [] 76-react-query.problem.ts
+- [v] 75-react-select.problem.tsx
+- [v] 76-react-query.problem.ts
 - [] 77-react-query-wrapper.problem.ts
